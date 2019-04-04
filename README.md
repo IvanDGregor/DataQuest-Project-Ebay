@@ -1,2 +1,2 @@
-# DataQuest-Project-Ebay
+## DataQuest-Projects
 Guided Project: Exploring Ebay Car Sales Data
